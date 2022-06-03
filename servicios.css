@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f7facf;
+}
+#header{
+    background-color: #f7facf;
+    width: 97%;
+    text-align: center;
+}
+
+#nav{
+    width: 97%;
+    margin: 30px;
+    background-color: rgb(207,232,220);
+
+}
+#main{
+    
+    background-color: #e0ccf3;
+    width: 95%;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+
+
+
+}
+
+#article{
+    background-color: #c9fadf;
+    width: 97%;           
+    margin: 30px;
+
+}
+
+#article1{
+    background-color: #c9fadf;
+    width: 97%;           
+    margin: 30px;
+
+}
+
+#article2{
+    background-color: #c9fadf;
+    width: 97%;           
+    margin: 30px;
+
+}
+
+#article3{
+    background-color: #c9fadf;
+    width: 97%;           
+    margin: 30px;
+
+}
+
+#article4{
+    background-color: #c9fadf;
+    width: 97%;           
+    margin: 30px;
+
+}
+
+
+
+#footer{
+    background-color: #f3b0b0;
+    width: 97%;
+    text-align: center;
+    margin: 30px;
+
+}
+
+.contactos{
+    text-align: center;
+    font-size:20px;
+}
+
+.contacto{
+    display: inline-flex;
+    padding: 10px;
+}
+
+.link1{
+
+    float: right;
+    display: inline-flex;
+    padding: 5px;
+    margin-right: 55px;
+}
+
+.link2{
+    float: right;
+    display: inline-flex;
+    padding: 5px;
+    margin-right: 55px;
+
+}
+.redes1{
+    float: right;
+    display: inline-flex;
+    padding: 5px;
+    margin-right: 55px;
+}
+
+.redes2{
+    float: right;
+    display: inline-flex;
+    padding: 5px;
+    margin-right: 55px;
+}
+.contactos1{
+    text-align: center;
+}
+
+.contacto1{
+    display: inline-flex;
+    padding: 10px;
+}
+
+
+.logo{
+    display: flex;
+    width: 150px;
+    padding: 10px;
+    margin: 0px;
+    border: 0px;
+}
+
+h1{
+    text-align: center;
+    padding: 6px;
+}
+
+.table1{
+    text-align: center;
+    padding: 10px;
+    margin-left: 10%;
+}
+
+.table2{
+    text-align: center;
+    padding: 10px;
+    margin-left: 5%;
+}
+
+.table3{
+    text-align: center;
+    padding: 10px;
+    margin-left: 6%;
+}
+
+.table4{
+    text-align: center;
+    padding: 10px;
+}
